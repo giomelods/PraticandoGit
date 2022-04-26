@@ -1,3 +1,7 @@
 Aqui estou praticando com o Git 
 
 Aprender e aprender até fixar.
+
+Agora estou modificando esse doc.
+
+Deu certo gente <3
